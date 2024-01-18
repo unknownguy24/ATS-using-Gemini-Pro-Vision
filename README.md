@@ -1,7 +1,7 @@
-# ATS - Application Tracking System using Gemini Pro Vision
+# ATS - Applicant Tracking System using Gemini Pro Vision
 
 ## Overview
-Welcome to the ATS - Application Tracking System using Gemini Pro Vision. This advanced Applicant Tracking System is designed to enhance the recruitment process through the integration of AI technologies. It efficiently evaluates resumes against job descriptions, providing insightful analyses and compatibility assessments.
+Welcome to the ATS - Applicant Tracking System using Gemini Pro Vision. This advanced Applicant Tracking System is designed to enhance the recruitment process through the integration of AI technologies. It efficiently evaluates resumes against job descriptions, providing insightful analyses and compatibility assessments.
 
 ## Features
 - **Automated Resume Analysis:** Utilize AI to extract and analyze key information from resumes.
