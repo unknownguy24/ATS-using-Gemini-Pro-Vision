@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
 # Run the Streamlit app
 streamlit run app.py
-
+```
 ## Usage
 - Enter the job description in the text area provided.
 - Upload the candidate's resume in PDF format.
